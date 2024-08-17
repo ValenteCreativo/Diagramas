@@ -58,3 +58,17 @@ function drawLabels(x, y, toiletW, toiletH, seatW, seatH, liquidH, solidH, ventH
   
   // Separation compartment label
   text("Separation", x - toiletW / 2 - 100, y - toilet
+  
+  // Liquid waste container label
+  text("Liquid Waste", x - toiletW / 2 - 100, y - toiletH / 2 + seatH + solidH + 30);
+  
+  // Solid waste container label
+  text("Solid Waste", x - toiletW / 2 - 100, y - toiletH / 2 + seatH + 30);
+  
+  // Ventilation pipe label
+  text("Ventilation Pipe", x + toiletW / 2 + 20, y - toiletH / 2 - ventH / 2);
+}
+
+function draw() {
+  // No drawing code needed here
+}
