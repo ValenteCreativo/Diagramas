@@ -2,7 +2,7 @@
 
 Hola,
 
-Comparto una serie de diagramas que diseñe para el proyecto Urbanika ([urbanika.notion.site](https://urbanika.notion.site/Urbanika-304277770b0e418ea279548983c3c0db)) , con el objetivo de ilustrar diferentes ecotecnias. Esta es una pequeña contribución que espero pueda ser útil como referencia para quienes trabajan en proyectos similares o buscan comprender mejor estos conceptos.
+Comparto una serie de diagramas que diseñe en JavaScript para el proyecto Urbanika ([urbanika.notion.site](https://urbanika.notion.site/Urbanika-304277770b0e418ea279548983c3c0db)) , con el objetivo de ilustrar diferentes ecotecnias. Esta es una pequeña contribución que espero pueda ser útil como referencia para quienes trabajan en proyectos similares o buscan comprender mejor estos conceptos.
 
 ## Contenidos
 
